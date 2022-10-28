@@ -1,0 +1,117 @@
+
+/* 
+#008B9C
+#0088CF
+#007EE8
+#4169E1
+#A749BC
+#D12784
+#D62C49
+*/
+
+
+
+body {
+
+border:0px;
+margin: 0px;
+padding: 0px;
+border-width: 0px;
+text-align: center;
+font-size:x-large;
+
+}
+
+
+#nav .col-sm-4 {
+
+    background-color: #0080e8c9;
+    padding: 1%;
+   
+}
+
+#imgcol {
+
+width: 100%;
+padding: 5%;
+
+ }
+
+#imgrow {
+    
+    margin: 0px;
+    background-color: #D62C49;
+    width: 100%;
+    border-width: 0px;
+    border-style: inset;
+    border-bottom: 0.3em;
+    border-bottom-color: rgba(26, 179, 21, 0.247);
+
+    }
+
+#importyantpersonlainfo1{
+
+   
+    background-color: #4169E1;
+    padding-top: 5%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 5%;
+
+
+
+}
+
+#importyantpersonlainfo2{
+
+    text-align: left;
+    padding-top: 3%;
+    padding-bottom: 5%;
+
+
+
+}
+
+#primerpersonalspace {
+
+background-color: aqua;
+text-align: left;
+padding-left: 7%;
+padding-top: 5%;
+padding-bottom: 5%;
+
+
+
+}
+
+
+#primerpersonalspace .col-sm-12{
+
+
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 0px;
+
+}
+
+#primerpersonalspace .col-sm-12 div{
+
+
+    display:inline;
+    
+  
+         
+         
+         
+ }
+
+ #primerpersonalspace p{
+
+
+    
+    display:inline;
+    padding-left: 7%;
+         
+         
+         
+ }
